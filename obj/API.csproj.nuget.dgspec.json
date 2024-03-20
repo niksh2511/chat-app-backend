@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net-projects\\API\\API.csproj": {}
+    "D:\\.net-projects\\chat-app-backend\\API.csproj": {}
   },
   "projects": {
-    "D:\\.net-projects\\API\\API.csproj": {
+    "D:\\.net-projects\\chat-app-backend\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net-projects\\API\\API.csproj",
+        "projectUniqueName": "D:\\.net-projects\\chat-app-backend\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\.net-projects\\API\\API.csproj",
+        "projectPath": "D:\\.net-projects\\chat-app-backend\\API.csproj",
         "packagesPath": "C:\\Users\\nikhils.singh\\.nuget\\packages\\",
-        "outputPath": "D:\\.net-projects\\API\\obj\\",
+        "outputPath": "D:\\.net-projects\\chat-app-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

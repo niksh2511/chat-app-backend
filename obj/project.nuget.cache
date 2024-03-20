@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAm0OEN8RxtecHg4jALmSLU97E0+dhWibMHXCgxs5utvCltdeXeZuvgKVL0qNOOVfJzpMB9EIW4zpfKCrowzww==",
+  "dgSpecHash": "euJdd2JydPGi83pptD81V4i+HLEwbIcSKABgbSFIh8jHVEeBvHYfb3+tJauo3Xb25t2OztbYdVUpp6AFOcBPkQ==",
   "success": true,
-  "projectFilePath": "D:\\.net-projects\\API\\API.csproj",
+  "projectFilePath": "D:\\.net-projects\\chat-app-backend\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikhils.singh\\.nuget\\packages\\jquery\\1.6.4\\jquery.1.6.4.nupkg.sha512",
     "C:\\Users\\nikhils.singh\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.3\\microsoft.aspnet.signalr.2.4.3.nupkg.sha512",
